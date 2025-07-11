@@ -58,7 +58,7 @@ This project effectively demonstrates and reinforces the following Python progra
 - **Variables**: Storing the `secret_number`, `user_guess`, and `guesses `count.
 - **Input/Output**: Using `input()` to get user guesses and `print()` to provide game feedback.
 - **Logic & Control Flow**:
- - while Loop`: `For repetitive guessing until a condition is met.
+ - `while Loop`: For repetitive guessing until a condition is met.
  - `if/elif/else` **Statements**: For decision-making based on guess comparison.
  - `break `**Keyword**: For exiting the game loop early upon a win.
 - **Type Conversion**: Using `int()` to convert string input to an integer.
